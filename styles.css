@@ -15,6 +15,10 @@ body {
   color: #555555;
 }
 
+.profil{
+  opacity: 65%;
+}
+
 .bold {
   font-weight: 700;
   font-size: 20px;
